@@ -81,3 +81,41 @@ div.tab button.active {
     to {opacity: 1;}
 }
 
+.contact{
+    background-color: #FE3F3F;
+}
+
+.list{
+    float: left;
+}
+
+.list > ul{
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+
+.list > a{
+    color: white !important;
+}
+
+.list > a > i{
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+
+.list > ul > li{
+    list-style:none;
+    color: white;
+}
+
+i.fa.large{
+    font-size: 2.5em;
+}
+
+@media only screen and (max-width: 768px){
+
+    .list > ul {
+        margin-bottom: 0px;
+    }
+
+}
