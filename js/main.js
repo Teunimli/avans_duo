@@ -21,3 +21,17 @@ function openTab(evt, cityName) {
     evt.currentTarget.className += " active";
 }
 
+function initMap() {
+    var uluru = {lat: 51.583823, lng: 4.7938663};
+    var map = new google.maps.Map(document.getElementById('map'), {
+        zoom: 15,
+        center: uluru,
+        scrollwheel: false
+    });
+    var marker = new google.maps.Marker({
+        position: uluru,
+        map: map
+    });
+}
+
+
