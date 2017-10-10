@@ -16,22 +16,18 @@
       3 of 3
     </div>
   </div>
-  </div>
-</div>
 
 <h1 class="beroepen">Vakkenoverzicht</h1>
-<div class="container">
 <div class="tab">
  <button class="tablinks" onclick="openTab(event, 'eerste')" id="defaultOpen">Eerste leerjaar</button>
   <button class="tablinks" onclick="openTab(event, 'tweede'); ">Tweede leerjaar</button>
   <button class="tablinks" onclick="openTab(event, 'derde'); ">Derde leerjaar</button>
   <button class="tablinks" onclick="openTab(event, 'vierde'); ">Vierde leerjaar</button>
 </div>
-</div>
+
 <div id="eerste" class="tabcontent">
   <h3 class="beroepen">Eerste leerjaar</h3>
   <p>Elk leerjaar is ingedeeld in vier blokken. Het kan zijn dat er vakken verdwijnen als je een nieuw blok ingaat of er komen juist nieuwe vakken aan bod.</p>
-  <div class="container">
   <table class="table table-striped">
     <thead>
       <tr>
@@ -159,13 +155,11 @@
  		<h3 class="beroepen">Toelichting vakkenoverzicht</h3>
  			<p>Voor het vak programmeren in het eerste jaar gebruiken we de taal Java en voor het ontwerpen UML. Bij databases leer je hoe je op een goede gestructureerde manier een database opzet en met SQL de data op kunt vragen en bewerken. In het tweede jaar komen bij de ontwikkeling van webapplicaties ASP.net/C# en javascript-frameworks aan bod.</p>
 </div>
-</div>
 
 
 <div id="tweede" class="tabcontent">
   <h3 class="beroepen">Tweede leerjaar</h3>
   <p>Elk leerjaar is ingedeeld in vier blokken. Het kan zijn dat er vakken verdwijnen als je een nieuw blok ingaat of er komen juist nieuwe vakken aan bod.</p>
-   <div class="container">
   <table class="table table-striped">
     <thead>
       <tr>
@@ -253,12 +247,10 @@
      	 <h3 class="beroepen">Toelichting vakkenoverzicht</h3>
  			<p>Voor het vak programmeren in het eerste jaar gebruiken we de taal Java en voor het ontwerpen UML. Bij databases leer je hoe je op een goede gestructureerde manier een database opzet en met SQL de data op kunt vragen en bewerken. In het tweede jaar komen bij de ontwikkeling van webapplicaties ASP.net/C# en javascript-frameworks aan bod.</p>
 </div>
-</div>
 
 <div id="derde" class="tabcontent">
   <h3 class="beroepen">Derde leerjaar</h3>
   <p>Elk leerjaar is ingedeeld in vier blokken. Het kan zijn dat er vakken verdwijnen als je een nieuw blok ingaat of er komen juist nieuwe vakken aan bod.</p>
-   <div class="container">
   <table class="table table-striped">
     <thead>
       <tr>
@@ -331,13 +323,10 @@
      	 <h3 class="beroepen">Toelichting vakkenoverzicht</h3>
  			<p>Voor het vak programmeren in het eerste jaar gebruiken we de taal Java en voor het ontwerpen UML. Bij databases leer je hoe je op een goede gestructureerde manier een database opzet en met SQL de data op kunt vragen en bewerken. In het tweede jaar komen bij de ontwikkeling van webapplicaties ASP.net/C# en javascript-frameworks aan bod.</p>
 </div>
-</div>
-</div>
 
 <div id="vierde" class="tabcontent">
   <h3 class="beroepen">Vierde leerjaar</h3>
  <p>Elk leerjaar is ingedeeld in vier blokken. Het kan zijn dat er vakken verdwijnen als je een nieuw blok ingaat of er komen juist nieuwe vakken aan bod.</p>
-   <div class="container">
   <table class="table table-striped">
     <thead>
       <tr>
@@ -368,8 +357,6 @@
      	 <h3 class="beroepen">Toelichting vakkenoverzicht</h3>
  			<p>Voor het vak programmeren in het eerste jaar gebruiken we de taal Java en voor het ontwerpen UML. Bij databases leer je hoe je op een goede gestructureerde manier een database opzet en met SQL de data op kunt vragen en bewerken. In het tweede jaar komen bij de ontwikkeling van webapplicaties ASP.net/C# en javascript-frameworks aan bod.</p>
 </div>
-</div>
-</div>
 
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
@@ -379,7 +366,6 @@
 
 <h1 class="beroepen">Toelating tot de studie informatica</h1>
 <p class="tekst">Om te kunnen starten met de opleiding informatie is het van belang dat vooropleiding voldoende is. Hieronder een overzicht met welke vooropleidingen je de studie informatica mag starten.</p>
- <div class="container">
   <table class="table table-striped">
     <thead>
       <tr>
@@ -426,7 +412,7 @@
       </tbody>
       </table>
 
-
+</div>
 <?php 
 @include('footer.html');
 ?>
