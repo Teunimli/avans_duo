@@ -46,36 +46,43 @@
 <div class="container">
 
     <h1>Home</h1>
-    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui.
-
-        Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna. Sed consequat, leo eget bibendum sodales, augue velit cursus nunc, quis gravida magna mi a libero. Fusce vulputate eleifend sapien. Vestibulum purus quam, scelerisque ut, mollis sed, nonummy id, metus. Nullam accumsan lorem in dui. Cras ultricies mi eu turpis hendrerit fringilla. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; In ac dui quis mi consectetuer lacinia.
-
+    <p>
+        Dit is de informatie website over de opleiding informatica gemaakt door Teun Aarts en Joey van de Burgt. Hier kan je alles vinden over de opleiding informatica. Omdat wij in het eerste jaar zitten weten wij al best veel van de opleiding en willen we u juist meer informatie geven zodat u een goede keuze kan maken voor de opleiding. Op de pagina informatie vind u alle informatie die u nodig heeft om een goed oordeel te krijgen over de opleiding informatica.
+        Hieronder vind u al een klein beetje informatie over de opleiding en ook wat wij vinden van de opleiding.
     </p>
 
     <p>
         <button class="btn toggle_btn" data-toggle="collapse" href="#multiCollapseExample1" aria-expanded="false" aria-controls="multiCollapseExample1">Informatie over informatica</button>
-        <button class="btn toggle_btn" type="button" data-toggle="collapse" data-target="#multiCollapseExample2" aria-expanded="false" aria-controls="multiCollapseExample1">Toggle second element</button>
-        <button class="btn toggle_btn" type="button" data-toggle="collapse" data-target="#multiCollapseExample3" aria-expanded="false" aria-controls="multiCollapseExample1">Toggle Thrid element</button>
+        <button class="btn toggle_btn" type="button" data-toggle="collapse" data-target="#multiCollapseExample2" aria-expanded="false" aria-controls="multiCollapseExample1">Kenmerkend voor deze opleiding</button>
+        <button class="btn toggle_btn" type="button" data-toggle="collapse" data-target="#multiCollapseExample3" aria-expanded="false" aria-controls="multiCollapseExample1">Wat vinden de websitemakers van de opleiding?</button>
     </p>
     <div class="row">
         <div class="col">
             <div class="collapse multi-collapse" id="multiCollapseExample1">
                 <div class="card card-body">
-                    Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident.
+                    <p>
+                        Je leert alles over de verschillende aspecten van softwareontwikkeling en automatiseringsprojecten. Je leert onderzoeken aan welke eisen de software moet voldoen, hoe je die eisen vertaalt naar een ontwerp en dat omzet in een computerprogramma. Natuurlijk vergeet je niet te testen of de software ook werkt.
+                        Na de opleiding Informatica ben je Bachelor of Science. Je vindt snel een baan, want de arbeidsmarkt zit te springen om goede softwareontwikkelaars.
+                    </p>
                 </div>
             </div>
         </div>
         <div class="col">
             <div class="collapse multi-collapse" id="multiCollapseExample2">
                 <div class="card card-body">
-                    Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident.
+                    <p>
+                        De software die je ontwikkelt, staat nooit op zichzelf, maar is onderdeel van een totaaloplossing: ter ondersteuning van bedrijfsprocessen, gecombineerd met andere ICT-applicaties en duurzaamheid. Bij Informatica leer je hoe je jouw software in deze context ontwikkelt. We leiden je op tot een developer die snel met nieuwe technologieën kan werken. We leren je de technologie en belichten achterliggende concepten. Het motto van onze opleiding is creating consumer & enterprise software solutions.
+                    </p>
                 </div>
             </div>
         </div>
         <div class="col">
             <div class="collapse multi-collapse" id="multiCollapseExample3">
                 <div class="card card-body">
-                    Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident.
+                    <p>
+                        Teun en Joey vinden dat het een hele leuk opleiding is als je echt dingen wilt gaan ontwikkelen en producten wilt gaan maken. Want als je deze opleiding wilt gaan doen moet je wel echt inzet hebben en moet er heel veel tijd in hebben zitten.
+                        Daarom moet je het programmeren en ontwikkelen van programma's ook echt als hobby zien en je moet deze opleiding eigenlijk niet echt als school zien.
+                    </p>
                 </div>
             </div>
         </div>
