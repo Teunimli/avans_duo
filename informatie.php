@@ -2,10 +2,10 @@
 @include('header.html');
 ?>
 
-<h1 class="beroepen">Beroepen</h1>
 <div class="container">
   <div class="row">
-    <div class="col-md-4">
+      <h1 class="beroepen">Beroepen</h1>
+      <div class="col-md-4">
     <h3>Beroep 1</h3>
       1 of 3 (invullen van beroepen hier)
     </div>
@@ -357,12 +357,6 @@
      	 <h3 class="beroepen">Toelichting vakkenoverzicht</h3>
  			<p>Voor het vak programmeren in het eerste jaar gebruiken we de taal Java en voor het ontwerpen UML. Bij databases leer je hoe je op een goede gestructureerde manier een database opzet en met SQL de data op kunt vragen en bewerken. In het tweede jaar komen bij de ontwikkeling van webapplicaties ASP.net/C# en javascript-frameworks aan bod.</p>
 </div>
-
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-
 
 <h1 class="beroepen">Toelating tot de studie informatica</h1>
 <p class="tekst">Om te kunnen starten met de opleiding informatie is het van belang dat vooropleiding voldoende is. Hieronder een overzicht met welke vooropleidingen je de studie informatica mag starten.</p>
