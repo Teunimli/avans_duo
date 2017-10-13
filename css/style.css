@@ -11,10 +11,16 @@
     margin-bottom: 0 !important;;
 }
 
+.informatie{
+    margin-top: 60px;
+}
+
 .beroepen {
     color: red;
     text-align: center;
 }
+
+
 .container {
     text-align: center;
 }
@@ -53,10 +59,22 @@ div.tab button.active {
 .tabcontent {
     display: none;
     padding: 6px 12px;
-    border: 1px solid #ccc;
     border-top: none;
     text-align: center;
 }
+
+div.tab button{
+}
+
+.lesson{
+    text-align: center;
+}
+
+td {
+    max-width: 130px;
+}
+
+
 
 .tekst {
     text-align: center;
@@ -126,6 +144,10 @@ i.fa.large{
     color: white;
 }
 
+.contactpage{
+    margin-top: 60px;
+}
+
 .contact_image, .contact_image1{
     height: 200px;
     width: 200px;
@@ -137,6 +159,10 @@ i.fa.large{
     -ms-transform: rotate(270deg);
     -o-transform: rotate(270deg);
     transform: rotate(270deg);
+}
+
+.contact_item{
+    margin-top: 10px;
 }
 
 .contact_item > ul {
@@ -181,10 +207,14 @@ a.card_item:hover{
 
 }
 
-@media only screen and (max-width: 1350px){
+@media only screen and (max-width: 800px){
 
     .img{
-        height: 606px;
+        height: 400px;
+    }
+
+    .tablinks{
+        float: none !important;
     }
 
 }

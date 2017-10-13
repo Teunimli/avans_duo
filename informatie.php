@@ -2,40 +2,42 @@
 @include('header.html');
 ?>
 
-<div class="container">
-  <div class="row">
-      <h1 class="beroepen">Beroepen</h1>
-      <div class="col-md-4">
-    <h3>Beroep 1</h3>
-      1 of 3 (invullen van beroepen hier)
+<div class="container informatie">
+    <h1 class="beroepen">Beroepen</h1>
+    <div class="row">
+          <div class="col-md-4">
+        <h3>Software ontwikkelaar</h3>
+          <p>1 of 3 (invullen van beroepen hier)</p>
+        </div>
+        <div class="col-md-4">
+            <h3>App Developer</h3>
+            <p>1 of 3 (invullen van beroepen hier)</p>
+        </div>
+        <div class="col-md-4">
+            <h3>Informatie analist</h3>
+            <p>1 of 3 (invullen van beroepen hier)</p>
+        </div>
     </div>
-    <div class="col-md-4">
-      2 of 3 
-    </div>
-    <div class="col-md-4">
-      3 of 3
-    </div>
-  </div>
 
-<h1 class="beroepen">Vakkenoverzicht</h1>
-<div class="tab">
- <button class="tablinks" onclick="openTab(event, 'eerste')" id="defaultOpen">Eerste leerjaar</button>
-  <button class="tablinks" onclick="openTab(event, 'tweede'); ">Tweede leerjaar</button>
-  <button class="tablinks" onclick="openTab(event, 'derde'); ">Derde leerjaar</button>
-  <button class="tablinks" onclick="openTab(event, 'vierde'); ">Vierde leerjaar</button>
-</div>
+    <h1 class="beroepen">Vakkenoverzicht</h1>
+    <div class="tab">
+     <button class="tablinks" onclick="openTab(event, 'eerste')" id="defaultOpen">Eerste leerjaar</button>
+      <button class="tablinks" onclick="openTab(event, 'tweede'); ">Tweede leerjaar</button>
+      <button class="tablinks" onclick="openTab(event, 'derde'); ">Derde leerjaar</button>
+      <button class="tablinks" onclick="openTab(event, 'vierde'); ">Vierde leerjaar</button>
+    </div>
 
 <div id="eerste" class="tabcontent">
   <h3 class="beroepen">Eerste leerjaar</h3>
   <p>Elk leerjaar is ingedeeld in vier blokken. Het kan zijn dat er vakken verdwijnen als je een nieuw blok ingaat of er komen juist nieuwe vakken aan bod.</p>
-  <table class="table table-striped">
+  <table class="table table-striped new-table">
     <thead>
       <tr>
-        <th>Vakken</th>
-        <th>Blok 1</th>
-        <th>Blok 2</th>
-        <th>Blok 3</th>
-        <th>Blok 4</th>
+        <th class="lesson">Vakken</th>
+        <th class="lesson">Blok 1</th>
+        <th class="lesson">Blok 2</th>
+        <th class="lesson">Blok 3</th>
+        <th class="lesson">Blok 4</th>
       </tr>
     </thead>
     <tbody>
@@ -153,7 +155,7 @@
     </tbody>
   </table>
  		<h3 class="beroepen">Toelichting vakkenoverzicht</h3>
- 			<p>Voor het vak programmeren in het eerste jaar gebruiken we de taal Java en voor het ontwerpen UML. Bij databases leer je hoe je op een goede gestructureerde manier een database opzet en met SQL de data op kunt vragen en bewerken. In het tweede jaar komen bij de ontwikkeling van webapplicaties ASP.net/C# en javascript-frameworks aan bod.</p>
+        <p>Voor het vak programmeren in het eerste jaar gebruiken we de taal Java en voor het ontwerpen UML. Bij databases leer je hoe je op een goede gestructureerde manier een database opzet en met SQL de data op kunt vragen en bewerken. In het tweede jaar komen bij de ontwikkeling van webapplicaties ASP.net/C# en javascript-frameworks aan bod.</p>
 </div>
 
 
@@ -363,8 +365,8 @@
   <table class="table table-striped">
     <thead>
       <tr>
-        <th>Profiel</th>
-        <th>Toelating</th>
+        <th class="lesson">Profiel</th>
+        <th class="lesson">Toelating</th>
       </tr>
     </thead>
     <tbody>
