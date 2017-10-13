@@ -424,7 +424,37 @@
 
 
 
+    <div class="row">
+        <div class="col-md-4 bottom">
+            <div id="flipFirst">
+                <h2>Wat is een Studiepunt?</h2>
+            </div>
+            <div id="panelFirst">
+                <p>Studiepunten verdien je voor elk stukje van je opleiding dat je afrondt. Je krijgt bijvoorbeeld punten voor een tentamen dat je haalt, een stage die je goed afrondt of een projectverslag. Voor elke opdracht waarvoor je een ‘voldoende’ haalt, krijg je studiepunten.<p>
+            </div>
+        </div>
+
+        <div class="col-md-4 bottom">
+            <div id="flipSecond">
+                <h2>Is er een minimum aantal studiepunten?</h2>
+            </div>
+            <div id="panelSecond">
+                <p>In het eerste jaar van de opleiding Informatica moet je 52 studiepunten halen om naar het volgende jaar te mogen. Maar je moet 60 studiepunten halen om je propedeuse te halen maar dit mag ook in jaar 2 tevens je de 52 studiepunten haalt om over te gaan.<p>
+            </div>
+        </div>
+
+        <div class="col-md-4 bottom">
+            <div id="flipThird">
+                <h2>Hoe weet ik hoeveel studiepunten ik kan halen?</h2>
+            </div>
+            <div id="panelThird">
+                <p>Bij ons op Avans kan je in de periodewijzer van elke periode zien hoeveel studiepunten je per vak kan halen. Dit is handig want zo kan je goed zien hoeveel studiepunten je kan halen.<p>
+
+            </div>
+        </div>
+
+    </div>
 </div>
-<?php 
+<?php
 @include('footer.html');
 ?>

@@ -6,6 +6,10 @@
     max-height: 800px;
 }
 
+.red{
+    color: red;
+}
+
 .navbar{
     background-color: #FE3F3F;
     margin-bottom: 0 !important;;
@@ -189,6 +193,20 @@ a.card_item:hover{
     color: white;
 }
 
+#flipFirst, #flipSecond, #flipThird {
+    padding: 5px;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+#panelFirst, #panelSecond, #panelThird {
+    display: none;
+}
+
+#panelFirst > p {
+    text-align: center;
+}
+
 #map {
     height: 400px;
     width: 100%;
@@ -203,6 +221,14 @@ a.card_item:hover{
     .list > a > i{
         margin-top: 20px;
         margin-bottom: 20px;
+    }
+
+}
+
+@media only screen and (max-width: 1350px){
+
+    .img{
+        height: 606px;
     }
 
 }

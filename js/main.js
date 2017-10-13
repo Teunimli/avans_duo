@@ -1,3 +1,21 @@
+$(document).ready(function() {
+    $("h1").addClass("red");
+
+    $(".bottom h2").addClass("red");
+
+    $("#flipFirst").click(function(){
+        $("#panelFirst").slideToggle("slow");
+    })
+
+    $("#flipSecond").click(function(){
+        $("#panelSecond").slideToggle("slow");
+    });
+
+    $("#flipThird").click(function(){
+        $("#panelThird").slideToggle("slow");
+    });
+});
+
 document.getElementById("defaultOpen").click();
 
 function openTab(evt, cityName) {
@@ -34,5 +52,6 @@ function initMap() {
         map: map
     });
 }
+
 
 

@@ -63,6 +63,8 @@
                     <p>
                         Je leert alles over de verschillende aspecten van softwareontwikkeling en automatiseringsprojecten. Je leert onderzoeken aan welke eisen de software moet voldoen, hoe je die eisen vertaalt naar een ontwerp en dat omzet in een computerprogramma. Natuurlijk vergeet je niet te testen of de software ook werkt.
                         Na de opleiding Informatica ben je Bachelor of Science. Je vindt snel een baan, want de arbeidsmarkt zit te springen om goede softwareontwikkelaars.
+                        Na de opleiding kan je verschillende richtingen opgaan zoals: ontwikkelaar worden of je specaliseren in het maken van apps of ergens anders in specialiseren of informatie adviseren over hoe je informatie kan analyseren.
+                        Je kunt na de opleiding Informatica echt alle kanten op die je op wilt gaan.
                     </p>
                 </div>
             </div>
