@@ -193,18 +193,14 @@ a.card_item:hover{
     color: white;
 }
 
-#flipFirst, #flipSecond, #flipThird {
+#flipFirst, #flipSecond, #flipThird, #flipFour, #flipFifth, #flipSix {
     padding: 5px;
     text-align: center;
     margin-bottom: 10px;
 }
 
-#panelFirst, #panelSecond, #panelThird {
+#panelFirst, #panelSecond, #panelThird, #panelFour, #panelFifth, #panelSix {
     display: none;
-}
-
-#panelFirst > p {
-    text-align: center;
 }
 
 #map {

@@ -6,17 +6,31 @@
     <h1 class="beroepen">Beroepen</h1>
     <p>Om jullie een beeld te geven welke beroepsprofielen er zoal bij de informatica horen, hebben wij hieronder 3 interessante beroepen kort uitgewerkt. We hopen jullie op deze manier een beter beeld te kunnen geven van de kanten waar je op kan gaan na de opleiding. Op deze manier kan je ook gemotiveerder je schooltijd doorkomen.
     <div class="row">
-          <div class="col-md-4">
-        <h3>Softwareontwikkelaar</h3>
-          <p>Als softwareontwikkelaar ben jij verantwoordelijk voor, je raad het al, het ontwikkelen van nieuwe software. Jij bent de man die het leuk vind om naar die speld in een hooiberg te zoeken wanneer er geen oplossing voor een probleem gevonden kan worden. Jij bent degene die het probleemoplossend denken aan kan. Je houd er van om je creativiteit te laten spreken, de software die je bouwt kan immers echt van alles zijn. Je hebt ook heel veel diversiteit aan bedrijven waar je aan de slag zou kunnen gaan. De grootste werkzaamheden zijn uiteraard het ontwikkelen, ook heb je kans dat je met klanten in contact komt als jij de persoon bent die het contact legt.</p>
+      <div class="col-md-4 bottom">
+        <div id="flipFour">
+              <h2>Softwareontwikkelaar</h2>
         </div>
-        <div class="col-md-4">
-            <h3>App Developer</h3>
-            <p>De werkzaamheden van een app developer zijn iets breder als die van een softwareontwikkelaar. Dit komt doordat je als app developer niet alleen maar bezig bent met ontwikkelen. Natuurlijk is een van de werkzaamheden nog steeds ontwikkelen, maar als app developer zijn er ook meerdere verantwoordelijkheden die je krijgt. Zo moet je ook goed kunnen communiceren met de klant wat zijn behoeftes en dergelijke zijn. Je moet tevens ook goed in een team overweg kunnen. Er zullen meer vergaderingen zijn omdat je veelal met grotere teams werkt. Ook als app developer moet je er van houden om probleemoplossend te denken en je creativiteit te laten spreken.</p>
+        <div id="panelFour">
+            <p>Als softwareontwikkelaar ben jij verantwoordelijk voor, je raad het al, het ontwikkelen van nieuwe software. Jij bent de man die het leuk vind om naar die speld in een hooiberg te zoeken wanneer er geen oplossing voor een probleem gevonden kan worden. Jij bent degene die het probleemoplossend denken aan kan. Je houd er van om je creativiteit te laten spreken, de software die je bouwt kan immers echt van alles zijn. Je hebt ook heel veel diversiteit aan bedrijven waar je aan de slag zou kunnen gaan. De grootste werkzaamheden zijn uiteraard het ontwikkelen, ook heb je kans dat je met klanten in contact komt als jij de persoon bent die het contact legt.</p>
         </div>
-        <div class="col-md-4">
-            <h3>Informatie analist</h3>
-            <p>Het beroepsprofiel informatie analist heeft ten opzichte van de vorige beroepsprofielen hele andere werkzaamheden. Als informatie analist moet je goed overweg kunnen met informatie. Je moet het kunnen analyseren, ordenen, verwerken etc. Dit kan op het world wide web zijn, maar ook met tijdschriften, kranten, dagbladen, eigenlijk alle 'tastbare' informatie. Het kan zijn dat je bij een bedrijf gaat werken waar ze deze informatie juist handig verwerkt willen zien, denk hierbij aan het maken van een database. Of je gaat juist medewerkers helpen met het opzoeken van de juiste informatie, nog een mogelijkheid is dat je bedrijven gaat adviseren hoe ze hun informatie effectief kunnen presenteren.</p>
+      </div>
+        <div class="col-md-4 bottom">
+            <div id="flipFifth">
+                <h2>App Developer</h2>
+            </div>
+            
+            <div id="panelFifth">
+                <p>De werkzaamheden van een app developer zijn iets breder als die van een softwareontwikkelaar. Dit komt doordat je als app developer niet alleen maar bezig bent met ontwikkelen. Natuurlijk is een van de werkzaamheden nog steeds ontwikkelen, maar als app developer zijn er ook meerdere verantwoordelijkheden die je krijgt. Zo moet je ook goed kunnen communiceren met de klant wat zijn behoeftes en dergelijke zijn. Je moet tevens ook goed in een team overweg kunnen. Er zullen meer vergaderingen zijn omdat je veelal met grotere teams werkt. Ook als app developer moet je er van houden om probleemoplossend te denken en je creativiteit te laten spreken.</p>
+            </div>
+        </div>
+        <div class="col-md-4 bottom">
+            <div id="flipSix">
+                <h2>Informatie analist</h2>
+            </div>
+            
+            <div id="panelSix">
+                <p>Het beroepsprofiel informatie analist heeft ten opzichte van de vorige beroepsprofielen hele andere werkzaamheden. Als informatie analist moet je goed overweg kunnen met informatie. Je moet het kunnen analyseren, ordenen, verwerken etc. Dit kan op het world wide web zijn, maar ook met tijdschriften, kranten, dagbladen, eigenlijk alle 'tastbare' informatie. Het kan zijn dat je bij een bedrijf gaat werken waar ze deze informatie juist handig verwerkt willen zien, denk hierbij aan het maken van een database. Of je gaat juist medewerkers helpen met het opzoeken van de juiste informatie, nog een mogelijkheid is dat je bedrijven gaat adviseren hoe ze hun informatie effectief kunnen presenteren.</p>
+            </div>
         </div>
     </div>
 

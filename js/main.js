@@ -14,6 +14,18 @@ $(document).ready(function() {
     $("#flipThird").click(function(){
         $("#panelThird").slideToggle("slow");
     });
+
+    $("#flipFour").click(function(){
+        $("#panelFour").slideToggle("slow");
+    });
+
+    $("#flipFifth").click(function(){
+        $("#panelFifth").slideToggle("slow");
+    });
+
+    $("#flipSix").click(function(){
+        $("#panelSix").slideToggle("slow");
+    });
 });
 
 document.getElementById("defaultOpen").click();
