@@ -16,7 +16,7 @@
         </div>
         
         <div class="col-md-6 contact_item">
-            <img src="image/wood.jpg" alt="Teun Aarts" class="rounded-circle contact_image">
+            <img src="image/image.jpg" alt="Teun Aarts" class="rounded-circle contact_image">
             <ul>
                 <li>Joey van de burgt</li>
                 <li>23IVT1A1</li>
@@ -39,7 +39,7 @@
 
             <div id="collapseOne" class="collapse show" role="tabpanel" aria-labelledby="headingOne" data-parent="#accordion">
                 <div class="card-body">
-                    Deze site is gemaakt omdat Teun en Joey die moesten maken voorde eindopdracht van Webdesign. Maak eigenlijk moet deze website meer informatie geven over het vak Informatica op Avans zodat andere mensen er nog iets aan hebben.
+                    Deze site is gemaakt omdat Teun en Joey die moesten maken voor de eindopdracht van Webdesign. Deze site is ontwikkeld in het kader van informatica om hierover meer kennis op te doen. Ook is deze site bedoelt om bezoekers meer informatie te geven over het vak Informatica op Avans zodat zij via hierbij een beter beeld krijgen.
                 </div>
             </div>
         </div>

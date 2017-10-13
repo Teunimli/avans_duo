@@ -4,18 +4,19 @@
 
 <div class="container informatie">
     <h1 class="beroepen">Beroepen</h1>
+    <p>Om jullie een beeld te geven welke beroepsprofielen er zoal bij de informatica horen, hebben wij hieronder 3 interessante beroepen kort uitgewerkt. We hopen jullie op deze manier een beter beeld te kunnen geven van de kanten waar je op kan gaan na de opleiding. Op deze manier kan je ook gemotiveerder je schooltijd doorkomen.
     <div class="row">
           <div class="col-md-4">
-        <h3>Software ontwikkelaar</h3>
-          <p>1 of 3 (invullen van beroepen hier)</p>
+        <h3>Softwareontwikkelaar</h3>
+          <p>Als softwareontwikkelaar ben jij verantwoordelijk voor, je raad het al, het ontwikkelen van nieuwe software. Jij bent de man die het leuk vind om naar die speld in een hooiberg te zoeken wanneer er geen oplossing voor een probleem gevonden kan worden. Jij bent degene die het probleemoplossend denken aan kan. Je houd er van om je creativiteit te laten spreken, de software die je bouwt kan immers echt van alles zijn. Je hebt ook heel veel diversiteit aan bedrijven waar je aan de slag zou kunnen gaan. De grootste werkzaamheden zijn uiteraard het ontwikkelen, ook heb je kans dat je met klanten in contact komt als jij de persoon bent die het contact legt.</p>
         </div>
         <div class="col-md-4">
             <h3>App Developer</h3>
-            <p>1 of 3 (invullen van beroepen hier)</p>
+            <p>De werkzaamheden van een app developer zijn iets breder als die van een softwareontwikkelaar. Dit komt doordat je als app developer niet alleen maar bezig bent met ontwikkelen. Natuurlijk is een van de werkzaamheden nog steeds ontwikkelen, maar als app developer zijn er ook meerdere verantwoordelijkheden die je krijgt. Zo moet je ook goed kunnen communiceren met de klant wat zijn behoeftes en dergelijke zijn. Je moet tevens ook goed in een team overweg kunnen. Er zullen meer vergaderingen zijn omdat je veelal met grotere teams werkt. Ook als app developer moet je er van houden om probleemoplossend te denken en je creativiteit te laten spreken.</p>
         </div>
         <div class="col-md-4">
             <h3>Informatie analist</h3>
-            <p>1 of 3 (invullen van beroepen hier)</p>
+            <p>Het beroepsprofiel informatie analist heeft ten opzichte van de vorige beroepsprofielen hele andere werkzaamheden. Als informatie analist moet je goed overweg kunnen met informatie. Je moet het kunnen analyseren, ordenen, verwerken etc. Dit kan op het world wide web zijn, maar ook met tijdschriften, kranten, dagbladen, eigenlijk alle 'tastbare' informatie. Het kan zijn dat je bij een bedrijf gaat werken waar ze deze informatie juist handig verwerkt willen zien, denk hierbij aan het maken van een database. Of je gaat juist medewerkers helpen met het opzoeken van de juiste informatie, nog een mogelijkheid is dat je bedrijven gaat adviseren hoe ze hun informatie effectief kunnen presenteren.</p>
         </div>
     </div>
 
@@ -29,7 +30,7 @@
 
 <div id="eerste" class="tabcontent">
   <h3 class="beroepen">Eerste leerjaar</h3>
-  <p>Elk leerjaar is ingedeeld in vier blokken. Het kan zijn dat er vakken verdwijnen als je een nieuw blok ingaat of er komen juist nieuwe vakken aan bod.</p>
+  <p>Elk leerjaar is ingedeeld in vier blokken. Het kan zijn dat er vakken verdwijnen als je een nieuw blok ingaat of er komen juist nieuwe vakken aan bod. Het instroom moment van de opleiding is in september. De deadline voor inschrijvingen is op 1 mei 2018. Zorg dus dat je optijd bent!</p>
   <table class="table table-striped new-table">
     <thead>
       <tr>
@@ -161,7 +162,7 @@
 
 <div id="tweede" class="tabcontent">
   <h3 class="beroepen">Tweede leerjaar</h3>
-  <p>Elk leerjaar is ingedeeld in vier blokken. Het kan zijn dat er vakken verdwijnen als je een nieuw blok ingaat of er komen juist nieuwe vakken aan bod.</p>
+  <p>Elk leerjaar is ingedeeld in vier blokken. Het kan zijn dat er vakken verdwijnen als je een nieuw blok ingaat of er komen juist nieuwe vakken aan bod. Het instroom moment van de opleiding is in september. De deadline voor inschrijvingen is op 1 mei 2018. Zorg dus dat je optijd bent!</p>
   <table class="table table-striped">
     <thead>
       <tr>
@@ -252,7 +253,7 @@
 
 <div id="derde" class="tabcontent">
   <h3 class="beroepen">Derde leerjaar</h3>
-  <p>Elk leerjaar is ingedeeld in vier blokken. Het kan zijn dat er vakken verdwijnen als je een nieuw blok ingaat of er komen juist nieuwe vakken aan bod.</p>
+  <p>Elk leerjaar is ingedeeld in vier blokken. Het kan zijn dat er vakken verdwijnen als je een nieuw blok ingaat of er komen juist nieuwe vakken aan bod. Het instroom moment van de opleiding is in september. De deadline voor inschrijvingen is op 1 mei 2018. Zorg dus dat je optijd bent!</p>
   <table class="table table-striped">
     <thead>
       <tr>
@@ -328,7 +329,7 @@
 
 <div id="vierde" class="tabcontent">
   <h3 class="beroepen">Vierde leerjaar</h3>
- <p>Elk leerjaar is ingedeeld in vier blokken. Het kan zijn dat er vakken verdwijnen als je een nieuw blok ingaat of er komen juist nieuwe vakken aan bod.</p>
+ <p>Elk leerjaar is ingedeeld in vier blokken. Het kan zijn dat er vakken verdwijnen als je een nieuw blok ingaat of er komen juist nieuwe vakken aan bod. Het instroom moment van de opleiding is in september. De deadline voor inschrijvingen is op 1 mei 2018. Zorg dus dat je optijd bent!</p>
   <table class="table table-striped">
     <thead>
       <tr>
@@ -402,11 +403,26 @@
       </tr>
       <tr>
       	<td>mbo-niveau 4</td>
-      	<td>Alleen als je mbo-opleiding voldoende aansluit, ben je automatisch toelaatbaar voor deze opleiding. Lees meer over de doorstroom van mbo naar hbo.</td>		
+      	<td>Alleen als je mbo-opleiding voldoende aansluit, ben je automatisch toelaatbaar voor deze opleiding.</td>		
       </tr>
-
+      <tr>
+      	<td>wo-propedeuse</td>
+      	<td>X</td>
+      </tr>
+      <tr>
+      	<td>hbo-propedeuse</td>
+      	<td>X</td>
+      </tr> 	
       </tbody>
       </table>
+<h3 class="beroepen">Verkorte trajecten</h3>
+	<p>Met een ICT-gerelateerde mbo-opleiding, bijvoorbeeld applicatie- en mediaontwikkelaar, kom je in aanmerking voor het verkorte traject. De leerstof van jaar 1 doorloop je versneld. Mogelijk kom je in aanmerking voor vrijstelling van de praktijkstage. Je rondt je opleiding mogelijk in 3 jaar af. Het minimum aantal deelnemers voor dit traject is 12. Als er geen verkort traject start volg je in jaar 1 het reguliere traject. Vrijstelling voor praktijkstage blijft mogelijk. </p>
+<h3 class="beroepen">Toelatingsprocedure</h3>
+	<p>Er zijn 2 toelatingsprocedures die Avans hanteert. De eerste is de studiekeuzecheck. De studiekeuzecheck wordt gedaan in de vorm van een intake gesprek. Na afloop van het intake gesprek krijg je een persoonlijk studieadvies. Hierna is het aan jou om te kiezen wat je wilt gaan doen. De tweede toelatingsprocedure is de 21+ toets. Ben je op 21 oktober 21 jaar of ouder? Dan is deze toets wellicht iets voor jou! Om aan deze toets deel te nemen hoef je niet te voldoen aan de toelatingseisen. Zolang je op 21 oktober 21 jaar of ouder bent is iedereen vrij om deze opleiding te starten mits je deze toets haalt uiteraard.
+
+
+
+
 
 </div>
 <?php 
