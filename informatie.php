@@ -429,10 +429,10 @@
       </tr> 	
       </tbody>
       </table>
-<h3 class="beroepen">Verkorte trajecten</h3>
-	<p>Met een ICT-gerelateerde mbo-opleiding, bijvoorbeeld applicatie- en mediaontwikkelaar, kom je in aanmerking voor het verkorte traject. De leerstof van jaar 1 doorloop je versneld. Mogelijk kom je in aanmerking voor vrijstelling van de praktijkstage. Je rondt je opleiding mogelijk in 3 jaar af. Het minimum aantal deelnemers voor dit traject is 12. Als er geen verkort traject start volg je in jaar 1 het reguliere traject. Vrijstelling voor praktijkstage blijft mogelijk. </p>
-<h3 class="beroepen">Toelatingsprocedure</h3>
-	<p>Er zijn 2 toelatingsprocedures die Avans hanteert. De eerste is de studiekeuzecheck. De studiekeuzecheck wordt gedaan in de vorm van een intake gesprek. Na afloop van het intake gesprek krijg je een persoonlijk studieadvies. Hierna is het aan jou om te kiezen wat je wilt gaan doen. De tweede toelatingsprocedure is de 21+ toets. Ben je op 21 oktober 21 jaar of ouder? Dan is deze toets wellicht iets voor jou! Om aan deze toets deel te nemen hoef je niet te voldoen aan de toelatingseisen. Zolang je op 21 oktober 21 jaar of ouder bent is iedereen vrij om deze opleiding te starten mits je deze toets haalt uiteraard.
+		<h3 class="beroepen">Verkorte trajecten</h3>
+			<p>Met een ICT-gerelateerde mbo-opleiding, bijvoorbeeld applicatie- en mediaontwikkelaar, kom je in aanmerking voor het verkorte traject. De leerstof van jaar 1 doorloop je versneld. Mogelijk kom je in aanmerking voor vrijstelling van de praktijkstage. Je rondt je opleiding mogelijk in 3 jaar af. Het minimum aantal deelnemers voor dit traject is 12. Als er geen verkort traject start volg je in jaar 1 het reguliere traject. Vrijstelling voor praktijkstage blijft mogelijk. </p>
+		<h3 class="beroepen">Toelatingsprocedure</h3>
+			<p>Er zijn 2 toelatingsprocedures die Avans hanteert. De eerste is de studiekeuzecheck. De studiekeuzecheck wordt gedaan in de vorm van een intake gesprek. Na afloop van het intake gesprek krijg je een persoonlijk studieadvies. Hierna is het aan jou om te kiezen wat je wilt gaan doen. De tweede toelatingsprocedure is de 21+ toets. Ben je op 21 oktober 21 jaar of ouder? Dan is deze toets wellicht iets voor jou! Om aan deze toets deel te nemen hoef je niet te voldoen aan de toelatingseisen. Zolang je op 21 oktober 21 jaar of ouder bent is iedereen vrij om deze opleiding te starten mits je deze toets haalt uiteraard.
 
 
 
