@@ -39,7 +39,7 @@
 
             <div id="collapseOne" class="collapse show" role="tabpanel" aria-labelledby="headingOne" data-parent="#accordion">
                 <div class="card-body">
-                    Deze site is gemaakt omdat Teun en Joey die moesten maken voor de eindopdracht van Webdesign. Deze site is ontwikkeld in het kader van informatica om hierover meer kennis op te doen. Ook is deze site bedoelt om bezoekers meer informatie te geven over het vak Informatica op Avans zodat zij via hierbij een beter beeld krijgen.
+                    Deze site is gemaakt in het kader van informatica voor de eindopdracht van webdesign. Deze website is gemaakt door twee informatica studenten, Teun Aarts en Joey van de Burgt. Ook is deze site bedoelt om bezoekers meer informatie te geven over informatica op Avans zodat zij hierbij een beter beeld krijgen.
                 </div>
             </div>
         </div>
@@ -53,7 +53,7 @@
             </div>
             <div id="collapseTwo" class="collapse" role="tabpanel" aria-labelledby="headingTwo" data-parent="#accordion">
                 <div class="card-body">
-                    Deze site is gemaakt om meer te weten te komen over het vak iInformatica. Hierdoor hopen we dat toekomstige studenten een beter beeld krijgen bij het vak Informatica op Avnas. Dit is zoals wat je allemaal krijg in de komende jaren en wat het betkend om nou echt les te krijgen op Avans.
+                    Deze site is gemaakt met als doeleinde om meer te weten te komen over het vak informatica en onze kennis hierover te verbreden. We hopen dat toekomstige studenten een beter beeld krijgen bij de studie informatica op Avans. Dit geeft toekomstige studenten een goed zicht op wat ze allemaal kunnen krijgen in de komende jaren en wat het betekend om les te krijgen op Avans.
                 </div>
             </div>
         </div>
